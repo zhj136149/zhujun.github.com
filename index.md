@@ -18,9 +18,10 @@
 </table>
 
 ## 在校情况
+
 <table border="0">
   <tr>
-    <td width="75%">
+    <td>
       <h1>朱军</h1>
       <p><b>本科生在读</b></p>
       <p><b>物联网工程专业</b></p>
@@ -28,20 +29,14 @@
       <p><b>邮箱：1361492816@qq.com</b></p>
       <p><b>联系方式：18879664486</b></p>
     </td>
-    <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
-    </td>
   </tr>
 </table>
+
 ## 所获荣誉
 <table border="0">
   <tr>
-    <td width="75%">
+    <td>
       <h4>2016-2017：</h4>
-      <p><b>本科生在读</b></p>
-      <p><b>物联网工程专业</b></p>
-      <p><b>湖南科技大学计算机科学与工程学院</b></p>
-      <p><b>邮箱：1361492816@qq.com</b></p>
       <p><b>联系方式：18879664486</b></p>
     </td>
     <td width="75%">
@@ -56,6 +51,7 @@
   </tr>
 </table>
 ## 项目展示
+
 <table border="0">
   <tr>
     <td width="75%">
@@ -71,7 +67,9 @@
     </td>
   </tr>
 </table>
+
 ## 社会实践
+
 <table border="0">
   <tr>
     <td width="75%">
