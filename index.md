@@ -12,7 +12,7 @@
       <p><b>联系方式：18879664486</b></p>
     </td>
     <td width="25%">
-      <img src="/zhengjianzhao.jpg" width="100%">      % 插入证件照代码
+      <img src="/zhujun.jpg" width="100%">      
     </td>
   </tr>
 </table>
