@@ -1,4 +1,5 @@
 # 朱军个人主页
+<a href="/index-en.html">英文版</a>
 ## 基本信息
 <table border="0">
   <tr>
